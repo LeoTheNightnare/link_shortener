@@ -25,7 +25,7 @@ host = 'http://localhost:5000/'
 def table_check():
     create_table = '''
         CREATE TABLE IF NOT EXISTS WEB_URL(
-        ID INT PRIMARY KEY AUTOINCREMENT,
+        ID INTEGER PRIMARY KEY AUTOINCREMENT,
         URL TEXT NOT NULL
         );
         '''
