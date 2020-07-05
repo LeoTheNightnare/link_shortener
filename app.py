@@ -19,7 +19,7 @@ except ImportError:
 
 # Assuming urls.db is in your app root folder
 app = Flask(__name__)
-host = 'https://leothenightnare.github.io/link_shortener/'
+host = 'https://leothenightnare.github.io/link_shortener/templates/index.html'
 
 
 def table_check():
