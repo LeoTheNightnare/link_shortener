@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="012674e1-291d-4352-a875-1274ff185cc1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bokeh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bokeh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bokeh/basic_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bokeh/cool_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bokeh/education_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bokeh/visual_attributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bokeh/weather_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interactive_English_Dictionary/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interactive_English_Dictionary/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interactive_English_Dictionary/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maps/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maps/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maps/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maps/practice_maps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySQL_exercise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySQL_exercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySQL_exercise/exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REST APIs with Flask and Python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REST APIs with Flask and Python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REST APIs with Flask and Python/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RESTFUL APIs with flask and python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RESTFUL APIs with flask and python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RESTFUL APIs with flask and python/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account/acc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account/balance.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images_and_video/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images_and_video/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images_and_video/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images_and_video/face_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images_and_video/webcam_motion_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_first_flask_app/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_first_flask_app/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_first_flask_app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_first_flask_app/templates/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_first_flask_app/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_first_flask_app/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myflaskwebsite/leosite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myflaskwebsite/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myflaskwebsite/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myflaskwebsite/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrapper/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrapper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrapper/scrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqlitepy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqlitepy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqlitepy/script1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkintergui/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkintergui/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkintergui/tkapp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_based_financial_graph/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_based_financial_graph/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_based_financial_graph/stock_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webscraping/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webscraping/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webscraping/first_scrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webscraping/second_scrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website_blocker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website_blocker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website_blocker/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/training.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeoGarka.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LeoGarka.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Test.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-529189292">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.135" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="db" value="3" />
+          <entry key="html" value="1" />
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Python" value="1" />
+          <entry key="SQL" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="3" />
+          <entry key="html" value="116" />
+          <entry key="py" value="103" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="116" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="103" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1156">
+              <caret line="68" column="42" lean-forward="true" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/urls.db">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="28" column="143" selection-start-line="28" selection-start-column="143" selection-end-line="28" selection-end-column="143" />
+              <folding>
+                <element signature="e#1772#1778#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/shortlinks.py" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-557" />
+    <option name="y" value="31" />
+    <option name="width" value="1932" />
+    <option name="height" value="1085" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="link_shortener" type="b2602c69:ProjectViewProjectNode" />
+              <item name="link_shortener" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="link_shortener" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="link_shortener" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (link_shortener) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../understanding-html/venv/Scripts" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="012674e1-291d-4352-a875-1274ff185cc1" name="Default Changelist" comment="" />
+      <created>1593969765763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593969765763</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3276923" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/urls.db">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="42" lean-forward="true" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" column="143" selection-start-line="28" selection-start-column="143" selection-end-line="28" selection-end-column="143" />
+          <folding>
+            <element signature="e#1772#1778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
