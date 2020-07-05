@@ -19,7 +19,7 @@ except ImportError:
 
 # Assuming urls.db is in your app root folder
 app = Flask(__name__)
-host = 'https://www.shortlinks.com/'
+host = 'http://localhost:5000/'
 
 
 def table_check():
@@ -80,9 +80,9 @@ def home():
 
             encoded_string = toBase62(res.lastrowid)
 
-        return redirect('index.html', short_url=host + encoded_string)
+        return render_template('index.html', short_url=host + encoded_string)
 
-    return redirect('index.html')
+    return render_template('index.html')
 
 
 @app.route('/<short_url>')
