@@ -66,7 +66,7 @@ def home():
     if request.method == 'POST':
         original_url = str_encode(request.form.get('url'))
         if urlparse(original_url).scheme == '':
-            url = 'http://' + original_url
+            url = 'http://www.' + original_url
         else:
             url = original_url
         with sqlite3.connect('urls.db') as conn:
