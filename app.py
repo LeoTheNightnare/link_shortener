@@ -66,7 +66,7 @@ def home():
     if request.method == 'POST':
         original_url = str_encode(request.form.get('url'))
         if urlparse(original_url).scheme == '':
-            url = 'http://www.' + original_url
+            url = 'http://' + original_url
         else:
             url = original_url
         with sqlite3.connect('urls.db') as conn:
@@ -99,11 +99,11 @@ def redirect_short_url(short_url):
                 if short is not None:
                     url = base64.urlsafe_b64decode(short[0])
             except Exception as e:
-                print(e)
+                return e
         return redirect(url)
 
     except OverflowError as e:
-        print(str(e))
+        return str(e)
 
 
 if __name__ == '__main__':
