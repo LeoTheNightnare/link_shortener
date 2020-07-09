@@ -80,9 +80,9 @@ def home():
 
             encoded_string = toBase62(res.lastrowid)
 
-        return render_template('index.html', short_url=host + encoded_string)
+        return render_template('home.html', short_url=host + encoded_string)
 
-    return render_template('index.html')
+    return render_template('home.html')
 
 
 @app.route('/<short_url>')
